@@ -15,7 +15,7 @@ Happy coding and let's make a difference through technology! 🌟
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyendu-biswas&label=Profile%20views&color=0e75b6&style=flat" alt="dibyendu-biswas" /> </p>
 
-- 🌱 I’m currently learning **React, JavaScript , Css , HTML**
+- 🌱 I’m currently learning **React, JavaScript , css , HTML, Node,**
 
 - 📫 How to reach me **dibyendub819@gmail.com**
 
